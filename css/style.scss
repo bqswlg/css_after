@@ -299,18 +299,6 @@ a:focus {
     background-position: center;
 
   }
-
-  .carousel-control-prev {
-    background-image: url(../images/prev.png);
-    background-color: $white;
-    transform: translate(-85px, 30px);
-  }
-
-  .carousel-control-next {
-    background-image: url(../images/next.png);
-    background-color: $primary1;
-    transform: translate(-45px, 0);
-  }
 }
 
 // end slider section
